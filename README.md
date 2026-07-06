@@ -187,7 +187,7 @@ Responsive E-Commerce Frontend.
 # 🎯 2026 Goals
 
 - ✅ Become a MERN Stack Developer
-- ✅ Solve 500+ DSA Problems
+- ✅ Solve 1k+ DSA Problems
 - ✅ Build Production-Level Projects
 - ✅ Contribute to Open Source
 - ✅ Secure a Software Development Internship
