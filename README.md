@@ -1,216 +1,98 @@
-<div align="center">
-
-<img src="./banner.png" width="100%" alt="Ritweek Dubey GitHub Banner"/>
-
-# Hi 👋, I'm Ritweek Dubey
-
-### 🚀 Full Stack Developer | 💻 Computer Science Engineering Student
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+Developer;MERN+Stack+Learner;Building+Real+World+Projects;Problem+Solver;Always+Learning" alt="Typing Animation" />
-
-<br/>
-
-<a href="https://portfolio-site-jube.vercel.app/">
-<img src="https://img.shields.io/badge/🌐 Portfolio-FF6B00?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ritweek17/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ritweekdubey2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Ritweek17">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-```cpp
-class RitweekDubey {
-
-public:
-
-    string role = "Full Stack Developer";
-
-    string college = "ABES Engineering College";
-
-    vector<string> interests = {
-
-        "Full Stack Development",
-        "Backend Development",
-        "Data Structures & Algorithms",
-        "Open Source"
-
-    };
-
-    vector<string> currentlyLearning = {
-
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "System Design"
-
-    };
-
-};
-```
-
-## 🚀 Tech Stack
-
-### 💻 Languages
+<img src="./assets/banner.svg" alt="Ritweek Dubey, Full Stack Developer" width="100%">
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css"/>
+  <a href="https://portfolio-site-jube.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/ritweekdubey"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ritweekdubey2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-### ⚛️ Frontend
+## About
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite"/>
-</p>
+I'm a B.Tech Computer Science student at ABES Engineering College who likes turning ideas into working products. I started with frontend development, moved into React, and I'm now building out the backend side of the MERN stack.
 
-### ⚙️ Backend
+- 7+ projects built and deployed, from e-commerce and games to client work
+- 900+ coding problems solved (700+ on CodeChef, 150+ on LeetCode, 50+ elsewhere)
+- Web Development Intern at Clear Filing & Compliance LLP
+- I learn by building and solve by doing
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-</p>
+## Currently working on
 
-### 🛠 Tools
+- Backend development with Node.js, Express.js and MongoDB, to build full MERN projects
+- System design fundamentals
+- Contest practice to sharpen my DSA and competitive programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
-</p>
+## Tech stack
 
-### 📚 Libraries
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,c,js,html,css" alt="C++, C, JavaScript, HTML, CSS"> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" alt="React, Tailwind CSS, Bootstrap, Vite"> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express, MongoDB"> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Git, GitHub, VS Code, Postman, Vercel"> |
 
-- GSAP
-- Framer Motion
-- Lenis
-- React Icons
+**Libraries:** GSAP, Framer Motion, Lenis, React Icons
 
----
+## Featured projects
 
-# 🚀 Featured Projects
+**[ClearFiling](https://www.clearfiling.co.in/)** ([code](https://github.com/Ritweek17/ClearFiling))
+A client-facing platform for a corporate compliance and business services firm, built with React, Vite and Tailwind CSS. It includes service pages, search and filtering, contact forms and a reusable component system.
 
-## 🏢 ClearFiling
+**[MeowMaze](https://meowmaze-ruby.vercel.app/)** ([code](https://github.com/Ritweek17/Puzzle-game))
+A logic puzzle game built with React.
 
-Business Compliance Platform built for a real client.
+**[Developer Portfolio](https://portfolio-site-jube.vercel.app/)** ([code](https://github.com/Ritweek17/Portfolio-Site))
+My animated, responsive portfolio website.
 
-🌐 **Live:** https://www.clearfiling.co.in/
+More projects are on my [repositories page](https://github.com/Ritweek17?tab=repositories).
 
-💻 **Repository:** https://github.com/Ritweek17/ClearFiling
+## Experience
 
----
+**Web Development Intern, Clear Filing & Compliance LLP** (July 2026 to September 2026, New Delhi)
 
-## 🧩 MeowMaze
+- Built and deployed responsive interfaces with React.js, Vite, JavaScript and Tailwind CSS
+- Created reusable UI components and a consistent design system
+- Connected frontend interfaces to backend services and APIs
+- Added SEO basics, Open Graph metadata and accessibility improvements
+- Turned business requirements into user-friendly pages, working in a Git-based workflow
 
-Logic puzzle game built with React.
+## Leadership and community
 
-🌐 **Live:** https://meowmaze-ruby.vercel.app/
+- **Joint Secretary**, ACES
+- **Marketing Team member**, ACES
+- **Gender Champion**, Stambh – Pillar of Equality
 
-💻 **Repository:** https://github.com/Ritweek17/Puzzle-game
+## Problem solving
 
----
+| Platform | Profile |
+|---|---|
+| CodeChef (700+ solved) | [ritweek_17](https://www.codechef.com/users/ritweek_17) |
+| LeetCode (150+ solved) | [Ritweek_Dubey](https://leetcode.com/u/Ritweek_Dubey/) |
+| Codeforces | [ritweekdubey2006](https://codeforces.com/profile/ritweekdubey2006) |
+| AtCoder | [ritweek_17](https://atcoder.jp/users/ritweek_17) |
+| HackerRank | [ritweekdubey2006](https://www.hackerrank.com/profile/ritweekdubey2006) |
+| GeeksforGeeks | [ritweek17](https://www.geeksforgeeks.org/user/ritweek17) |
+| InterviewBit | [ritweek-dubey](https://www.interviewbit.com/profile/ritweek-dubey) |
 
-## 💼 Developer Portfolio
+## Certifications
 
-Modern animated portfolio website.
+- freeCodeCamp: JavaScript Algorithms and Data Structures
+- HackerRank: Problem Solving (Basic) and CSS (Basic)
+- CodeChef: 500 Difficulty Rating Practice Completion
+- Simplilearn: HTML and CSS
 
-🌐 **Live:** https://portfolio-site-jube.vercel.app/
+## GitHub activity
 
-💻 **Repository:** https://github.com/Ritweek17/Portfolio-Site
+<img src="./assets/metrics.svg" alt="GitHub activity and most used languages for Ritweek17" width="100%">
 
----
+## Goals
 
-## 🛒 Amazon Clone
+- Solve 1,000+ DSA problems (900+ done)
+- Contribute to open source
+- Take part in hackathons
+- Land my next software development internship
 
-Responsive E-Commerce Frontend.
+## Contact
 
-🌐 **Live:** https://amazon-clone-f20x.onrender.com/
-
-💻 **Repository:** https://github.com/Ritweek17/AMAZON-CLONE
-
----
-
-# 🏆 Certifications
-
-- ✅ FreeCodeCamp – JavaScript Algorithms & Data Structures
-- ✅ HackerRank – Problem Solving (Basic)
-- ✅ HackerRank – CSS (Basic)
-- ✅ CodeChef – 500 Difficulty Problems
-- ✅ Simplilearn – HTML
-- ✅ Simplilearn – CSS
-
----
-
-# 💻 Coding Profiles
-
-| Platform | Link |
-|----------|------|
-| LeetCode | https://leetcode.com/u/Ritweek_Dubey/ |
-| CodeChef | https://www.codechef.com/users/ritweek_17 |
-| HackerRank | https://www.hackerrank.com/profile/ritweekdubey2006 |
-| Codeforces | https://codeforces.com/profile/ritweekdubey2006 |
-| GeeksforGeeks | https://www.geeksforgeeks.org/user/ritweek17 |
-| InterviewBit | https://www.interviewbit.com/profile/ritweek-dubey |
-| AtCoder | https://atcoder.jp/users/ritweek_17 |
-
----
-
-# 📈 GitHub Stats
-
-> GitHub stat cards are provided by third-party services and may occasionally take a few moments to load.
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritweek17&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritweek17&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ritweek17&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Become a MERN Stack Developer
-- ✅ Solve 1k+ DSA Problems
-- ✅ Build Production-Level Projects
-- ✅ Contribute to Open Source
-- ✅ Secure a Software Development Internship
-
----
-
-# 📬 Contact
-
-📧 **Email:**  
-**ritweekdubey2006@gmail.com**
-
-🌐 **Portfolio:**  
-https://portfolio-site-jube.vercel.app/
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/ritweek17/
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-### 🚀 Building • Learning • Improving
-
-</div>
+- Email: [ritweekdubey2006@gmail.com](mailto:ritweekdubey2006@gmail.com)
+- Portfolio: [portfolio-site-jube.vercel.app](https://portfolio-site-jube.vercel.app/)
+- LinkedIn: [linkedin.com/in/ritweekdubey](https://www.linkedin.com/in/ritweekdubey)
